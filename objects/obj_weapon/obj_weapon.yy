@@ -31,7 +31,7 @@
     "path": "folders/Objects/Game.yy",
   },
   "resourceVersion": "1.0",
-  "name": "weapon",
+  "name": "obj_weapon",
   "tags": [],
   "resourceType": "GMObject",
 }
